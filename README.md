@@ -2,6 +2,11 @@
 
 A full-stack web application that simplifies ticket generation for bus conductors with automated login, ticket PDF downloads, and gender-based visual customization.
 
+---
+
+✨ Crafted with purpose by **Shobiya Srini**  
+🚍 Empowering public transport, one digital ticket at a time.
+
 ## ✨ Features
 
 - ✅ Conductor Signup/Login with unique ID generation
