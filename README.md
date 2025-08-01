@@ -42,3 +42,13 @@ npm run server
 
 # Start client (frontend)
 npm start
+
+---
+
+## 🛠️ Upcoming Milestones
+
+- [x] Conductor Login/Signup
+- [x] Ticket Generator with PDF download
+- [ ] Add live passenger count
+- [ ] Enable QR code on tickets
+- [ ] Real-time seat availability
