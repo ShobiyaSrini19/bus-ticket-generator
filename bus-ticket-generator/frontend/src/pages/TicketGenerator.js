@@ -49,8 +49,10 @@ export default function TicketGenerator({ onPassengerBoard }) {
       setTicket(res.data.ticket);
 
 if (onPassengerBoard) {
-  onPassengerBoard(boarding, destination);
+  console.log('triggering onPassengerBoard', boarding, destination, passengerPhone);
+  onPassengerBoard(boarding, destination, passengerPhone);
 }
+
 
     } catch (err) {
       alert('Failed to save ticket.');
